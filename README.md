@@ -68,7 +68,7 @@ npm run dev
 
 
 ## 🔗 Author  
-📧 **Tejas Shend3* – [tejashshende7@gmail.com](mailto:tejashshende7@gmail.com)  
+📧 **Tejas Shende* – [tejashshende7@gmail.com](mailto:tejashshende7@gmail.com)  
 
 ---
  
